@@ -19,8 +19,15 @@
     "ios": {
       "supportsTablet": true
     },
+    "android": {
+      "package": "com.example.hymap",
+      "config": {
+        "googleMaps": { "apiKey": "AIzaSyA5SHt7WY4iiu0B0ysGO775rIVpx138-nU" }
+      }
+    },
     "web": {
       "favicon": "./assets/favicon.png"
     }
   }
 }
+
