@@ -6,7 +6,6 @@ import { NavigationContainer } from '@react-navigation/native' ;
 import { createStackNavigator } from '@react-navigation/stack' ;
 import Styled from 'styled-components' ;
 
-
 function HomeScreen({navigation}) {
   return (
     <View style={{ flex: 1, alignItems: 'center', justifyContent: 'center' }}>
